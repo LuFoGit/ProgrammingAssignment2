@@ -1,3 +1,6 @@
+## ProgrammingAssignment2
+## LuFo 2015-07-18
+
 ## Put comments here that give an overall description of what your
 ## functions do
 
